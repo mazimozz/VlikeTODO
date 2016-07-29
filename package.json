@@ -1,0 +1,16 @@
+{
+  "name": "VlikeTODO",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "meteor-node-stubs": "~0.2.0",
+    "react": "^15.2.1",
+    "react-bootstrap": "^0.30.0",
+    "react-dom": "^15.2.1",
+    "react-link-state": "^0.1.2",
+    "react-mounter": "^1.2.0",
+    "react-router": "^2.6.0"
+  }
+}
